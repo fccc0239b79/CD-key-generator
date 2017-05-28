@@ -1,0 +1,6 @@
+C:\Users\Pawel\Documents\GitHub\CiSharp\CDKeyGenerate\CDKeyGenerate\bin\Debug\CDKeyGenerate.exe.config
+C:\Users\Pawel\Documents\GitHub\CiSharp\CDKeyGenerate\CDKeyGenerate\bin\Debug\CDKeyGenerate.exe
+C:\Users\Pawel\Documents\GitHub\CiSharp\CDKeyGenerate\CDKeyGenerate\bin\Debug\CDKeyGenerate.pdb
+C:\Users\Pawel\Documents\GitHub\CiSharp\CDKeyGenerate\CDKeyGenerate\obj\Debug\CDKeyGenerate.exe
+C:\Users\Pawel\Documents\GitHub\CiSharp\CDKeyGenerate\CDKeyGenerate\obj\Debug\CDKeyGenerate.pdb
+C:\Users\Pawel\Documents\GitHub\CiSharp\CDKeyGenerate\CDKeyGenerate\obj\Debug\CDKeyGenerate.csprojResolveAssemblyReference.cache
